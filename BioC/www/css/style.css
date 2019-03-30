@@ -1,0 +1,15 @@
+ion-content{
+	background:#053f5e;
+}
+.video1{
+	width: 100% !important;
+	height: 300px;
+	size: center;
+	background-size: cover;
+}
+.titulo1{
+	color:#fff;
+	background:#831212;
+	border-radius:30%; 
+}
+
